@@ -1,1 +1,14 @@
+CiS7 - Project
 
+Author: Luis Garibay & Jrrobert Jabonillo
+
+Created: 01 June 2020
+
+Version 1
+
+Case 2 UCR Medical Center Volunteers - Program to calculate and display probability. The purpose of the program is to calculate
+the probability of the student being assigned a certain country for the volunteer program. By prompting the user to select their
+specialization followed by the language they are fluent in. Also allowing the user to input their preferred Country based 
+on their language selection the program generates a random country of their matched language and if the country matches with their
+preferred country it displays the probability of being assigned that country. If they do not match it displays the probability of
+both the random matched country and their preferred one.
