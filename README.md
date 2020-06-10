@@ -1,4 +1,5 @@
 # CIS7-Project
+# Team: Script Users
 # Author: Jrrobert Jabonillo & Luis Garibay
 # Created: 31 May 2020
 # Version 1
